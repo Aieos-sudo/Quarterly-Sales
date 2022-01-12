@@ -12,3 +12,17 @@ C:\Users\Aieos_\Documents\code\Quarterly Sales\Quarterly Sales\obj\Debug\netcore
 C:\Users\Aieos_\Documents\code\Quarterly Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.dll
 C:\Users\Aieos_\Documents\code\Quarterly Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.pdb
 C:\Users\Aieos_\Documents\code\Quarterly Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.genruntimeconfig.cache
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\bin\Debug\netcoreapp3.1\Quarterly Sales.exe
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\bin\Debug\netcoreapp3.1\Quarterly Sales.deps.json
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\bin\Debug\netcoreapp3.1\Quarterly Sales.runtimeconfig.json
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\bin\Debug\netcoreapp3.1\Quarterly Sales.runtimeconfig.dev.json
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\bin\Debug\netcoreapp3.1\Quarterly Sales.dll
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\bin\Debug\netcoreapp3.1\Quarterly Sales.pdb
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.csproj.AssemblyReference.cache
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.AssemblyInfoInputs.cache
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.AssemblyInfo.cs
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.dll
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.pdb
+D:\Projects\GitHub\Quarterly-Sales\Quarterly Sales\obj\Debug\netcoreapp3.1\Quarterly Sales.genruntimeconfig.cache

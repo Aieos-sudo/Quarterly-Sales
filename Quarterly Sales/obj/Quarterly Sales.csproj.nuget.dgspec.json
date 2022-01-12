@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aieos_\\Documents\\code\\Quarterly Sales\\Quarterly Sales\\Quarterly Sales.csproj": {}
+    "D:\\Projects\\GitHub\\Quarterly-Sales\\Quarterly Sales\\Quarterly Sales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aieos_\\Documents\\code\\Quarterly Sales\\Quarterly Sales\\Quarterly Sales.csproj": {
+    "D:\\Projects\\GitHub\\Quarterly-Sales\\Quarterly Sales\\Quarterly Sales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aieos_\\Documents\\code\\Quarterly Sales\\Quarterly Sales\\Quarterly Sales.csproj",
+        "projectUniqueName": "D:\\Projects\\GitHub\\Quarterly-Sales\\Quarterly Sales\\Quarterly Sales.csproj",
         "projectName": "Quarterly Sales",
-        "projectPath": "C:\\Users\\Aieos_\\Documents\\code\\Quarterly Sales\\Quarterly Sales\\Quarterly Sales.csproj",
-        "packagesPath": "C:\\Users\\Aieos_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aieos_\\Documents\\code\\Quarterly Sales\\Quarterly Sales\\obj\\",
+        "projectPath": "D:\\Projects\\GitHub\\Quarterly-Sales\\Quarterly Sales\\Quarterly Sales.csproj",
+        "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\GitHub\\Quarterly-Sales\\Quarterly Sales\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Visual Studio 2022\\Shared Components Tools And SDKs\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aieos_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Noah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

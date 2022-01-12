@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0f7bbee1-2be2-4c2b-9cca-e5975fe9f34c": {
+      "ProjectGuid": "0f7bbee1-2be2-4c2b-9cca-e5975fe9f34c",
+      "DisplayName": "Quarterly Sales",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
